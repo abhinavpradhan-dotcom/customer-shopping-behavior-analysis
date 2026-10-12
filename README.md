@@ -69,9 +69,9 @@ The dataset contains customer shopping information that can be used to explore p
 customer-shopping-behavior-analysis/
 │
 ├── project.ipynb
-├── customer_shopping_behavior.csv
-├── Customer_behavior_dashboard.xlsx
 └── README.md
+      ├── customer_shopping_behavior.csv
+      ├── Customer_behavior_dashboard.xlsx
 ```
 
 *Update the filenames and extensions above to match the files you actually upload. Include the dashboard only if you want to share it, and do not upload credentials or other sensitive information.*
